@@ -1,0 +1,138 @@
+#EXTM3U url-tvg="http://www.teleguide.info/download/new3/jtv.zip"
+#EXTGRP:Российские
+#EXTINF:-1,НТВ
+http://31.128.159.41:8080/ntv/index.m3u8
+#EXTINF:-1 tvg-logo="НТВ Мир",НТВ-Мир
+http://92.46.127.146:8080/ntv/index.m3u8
+#EXTINF:-1 tvg-logo="НТВ",НТВ Хит
+http://91.192.168.251:8401
+
+#EXTINF:-1,СТС
+http://31.128.159.41:8080/sts/index.m3u8
+#EXTINF:-1,СТС
+https://sc.id-tv.kz/STS_38_39.m3u8
+
+#EXTINF:-1,ТНТ
+http://31.128.159.41:8080/tnt/index.m3u8
+#EXTINF:-1,ТНТ
+http://176.222.164.67/btv/SWM/TNT/TNT.m3u8
+
+#EXTINF:-1,ТНТ4
+http://176.222.164.67/btv/SWM/TNT4/TNT4.m3u8
+#EXTINF:-1,ТНТ4
+https://sc.id-tv.kz/tnt4_36_37.m3u8
+
+
+#EXTINF:-1,Рен ТВ
+https://sc.id-tv.kz/RenTV_34_35.m3u8
+#EXTINF:-1,Рен ТВ
+http://176.222.164.67/btv/SWM/RenTV/RenTV.m3u8
+
+#EXTINF:-1,ТВ-3
+http://31.128.159.41:8080/tv3/index.m3u8
+
+#EXTINF:-1,Пятница
+http://176.222.164.67/btv/SWM/Pyatnica/Pyatnica.m3u8
+#EXTINF:-1,Пятница
+https://sc.id-tv.kz/friday_36_37.m3u8
+
+#EXTINF:-1,Россия 1
+http://31.128.159.41:8080/rossia1/index.m3u8
+#EXTINF:-1,Россия 1 (Грозный)
+http://live.chechensoft.ru:1935/vainahtv/vaynahtv/playlist.m3u8
+
+#EXTINF:-1,Россия 24
+http://radio-live-mg.rtr-vesti.ru/live/smil:r24.smil/chunklist_b1200000.m3u8
+#EXTINF:-1,Россия 24
+http://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
+#EXTINF:-1,Россия 24 (Екатеринбург)
+http://radio-live-mg.rtr-vesti.ru/vgtrkrtmp/ural_r24.smil/chunklist_b3000000.m3u8
+#EXTINF:-1,Россия 24 (Калуга)
+http://radio-live-mg.rtr-vesti.ru/vgtrkrtmp/kaluga_r24.smil/chunklist_b1200000.m3u8
+#EXTINF:-1,Россия 24 (Краснодар)
+http://radio-live-mg.rtr-vesti.ru/vgtrkrtmp/kuban_r24.smil/chunklist_b1264000.m3u8
+#EXTINF:-1,Россия 24 (Липецк)
+http://radio-live-mg.rtr-vesti.ru/vgtrkrtmp/smil:r24_lipetsk.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,Россия 24 (Нижний Новгород)
+http://live-vestinn.cdnvideo.ru/vestinn/vestinn/playlist.m3u8
+#EXTINF:-1,Россия 24 (Омск)
+http://radio-live-mg.rtr-vesti.ru/vgtrkrtmp/omsk_r24.smil/chunklist_b1800000_slrus.m3u8
+#EXTINF:-1,Россия 24 (Пенза)
+http://radio-live-mg.rtr-vesti.ru/vgtrkrtmp/smil:penza_r24.smil/chunklist_b1000000.m3u8
+#EXTINF:-1,Россия 24 (Сочи)
+http://sochi.camera:8080/cam_256/tracks-v1a1/index.m3u8
+#EXTINF:-1,Россия 24 (Тамбов)
+http://live-gtrktambov.cdnvideo.ru/gtrktambov/r24tambov/playlist.m3u8
+#EXTINF:-1,Россия 24 (Ульяновск)
+http://gtrk-volga.ru/media/hr24/stream1.m3u8
+#EXTINF:-1,Россия 24 (Уфа)
+http://rtmp.gtrk.tv/720/tv720.m3u8
+#EXTINF:-1,Россия 24 (Чебоксары)
+http://chgtrk.code-red.ru/hls/R24_720p/index.m3u8
+#EXTINF:-1,Россия 24 (Челябинск)
+http://radio-live-mg.rtr-vesti.ru/vgtrkrtmp/smil:chel_r24.smil/chunklist_b1200000.m3u8
+#EXTINF:-1,Россия 24 (Чита)
+http://tv-online.gtrkchita.ru:8080/hls/r24-chita_576p.m3u8
+
+#EXTINF:-1,Россия К
+http://radio-live-mg.rtr-vesti.ru/hls/russia_k/playlist_3.m3u8
+#EXTINF:-1,Россия К
+http://radio-live-mg.rtr-vesti.ru/live/smil:russiak.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,Россия К
+http://radio-live-mg.rtr-vesti.ru/live/smil:rk.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,Россия К (Абхазия)
+http://185.228.135.48/tv_agtrk/index.m3u8
+
+#EXTINF:-1,Россия РТР
+http://radio-live-mg.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
+
+
+
+#EXTINF:-1,NICKELODEON
+http://176.222.164.67/btv/SWM/Nikelodeon/Nikelodeon.m3u8
+#EXTINF:-1,NICKELODEON
+https://89.106.234.5/nickelodeon.m3u8?token=em9uYS1pcHR2LnJ1
+
+#EXTGRP:Музыкальные
+#EXTINF:-1,ТНТ MUSIC
+http://176.222.164.67/btv/SWM/Tnt_music/Tnt_music.m3u8
+
+#EXTGRP:Местные
+#EXTINF:-1,5 Канал
+http://176.222.164.67/btv/SWM/5kanal/5kanal.m3u8
+#EXTINF:-1,ATAMEKEN BUSINESS CHANNEL
+http://176.222.164.67/btv/SWM/Atameken/Atameken.m3u8
+#EXTINF:-1,ATYRAY
+http://176.222.164.67/btv/SWM/Kazakhstan_Atyrau/Kazakhstan_Atyrau.m3u8
+#EXTINF:-1,BALAPAN HD [zona-iptv.ru]
+http://176.222.164.67/btv/SWM/Balapan_HD/Balapan_HD.m3u8
+#EXTINF:-1,Caspio News
+http://176.222.164.67/btv/SWM/CaspioNews/CaspioNews.m3u8
+#EXTINF:-1,Irbis
+http://176.222.164.67/btv/SWM/Irbis/Irbis.m3u8
+#EXTINF:-1,Q Sport HD
+http://176.222.164.67/btv/SWM/Q/Q.m3u8
+#EXTINF:-1,QAZAQSTAN HD
+http://176.222.164.67/btv/SWM/Qazaqstan_HD/Qazaqstan_HD.m3u8
+#EXTINF:-1,QAZSPORT HD
+http://176.222.164.67/btv/SWM/Qazsport_HD/Qazsport_HD.m3u8
+#EXTINF:-1,TAN
+http://176.222.164.67/btv/SWM/ON_TV/ON_TV.m3u8
+#EXTINF:-1,TDK 42 [zona-iptv.ru]
+http://176.222.164.67/btv/SWM/TDK42/TDK42.m3u8
+#EXTINF:-1,АЛАУ ТВ
+http://176.222.164.67/btv/SWM/Alau_tv/Alau_tv.m3u8
+#EXTINF:-1,ДИДАР
+http://176.222.164.67/btv/SWM/Didar/Didar.m3u8
+#EXTINF:-1,киноалем
+http://176.222.164.67/btv/SWM/KinoAlem/KinoAlem.m3u8
+#EXTINF:-1,МТРК
+http://176.222.164.67/btv/SWM/MTRK/MTRK.m3u8
+#EXTINF:-1,ТОЙ ДУМАН
+http://176.222.164.67/btv/SWM/Toy_Duman/Toy_Duman.m3u8
+#EXTINF:-1,ХАБАР 24 HD
+http://176.222.164.67/btv/SWM/Khabar_24_HD/Khabar_24_HD.m3u8
+#EXTINF:-1,ХАБАР HD
+http://176.222.164.67/btv/SWM/Khabar_HD/Khabar_HD.m3u8
+#EXTINF:-1,ХАЛЫК АРНА
+http://176.222.164.67/btv/SWM/Khalyk_Arna/Khalyk_Arna.m3u8
