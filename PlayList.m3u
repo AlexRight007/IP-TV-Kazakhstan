@@ -9,7 +9,7 @@ http://91.192.168.251:8401
 
 #EXTINF:-1,СТС
 http://31.128.159.41:8080/sts/index.m3u8
-#EXTINF:-1,СТС
+#EXTINF:-1 tvg-logo="СТС",СТС International
 https://sc.id-tv.kz/STS_38_39.m3u8
 
 #EXTINF:-1,ТНТ
@@ -104,7 +104,7 @@ http://176.222.164.67/btv/SWM/5kanal/5kanal.m3u8
 http://176.222.164.67/btv/SWM/Atameken/Atameken.m3u8
 #EXTINF:-1,ATYRAY
 http://176.222.164.67/btv/SWM/Kazakhstan_Atyrau/Kazakhstan_Atyrau.m3u8
-#EXTINF:-1,BALAPAN HD
+#EXTINF:-1,BALAPAN HD [zona-iptv.ru]
 http://176.222.164.67/btv/SWM/Balapan_HD/Balapan_HD.m3u8
 #EXTINF:-1,Caspio News
 http://176.222.164.67/btv/SWM/CaspioNews/CaspioNews.m3u8
@@ -118,7 +118,7 @@ http://176.222.164.67/btv/SWM/Qazaqstan_HD/Qazaqstan_HD.m3u8
 http://176.222.164.67/btv/SWM/Qazsport_HD/Qazsport_HD.m3u8
 #EXTINF:-1,TAN
 http://176.222.164.67/btv/SWM/ON_TV/ON_TV.m3u8
-#EXTINF:-1,TDK 42
+#EXTINF:-1,TDK 42 [zona-iptv.ru]
 http://176.222.164.67/btv/SWM/TDK42/TDK42.m3u8
 #EXTINF:-1,АЛАУ ТВ
 http://176.222.164.67/btv/SWM/Alau_tv/Alau_tv.m3u8
